@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Airat\source\repos\LeetCode_Solutions\build\CMakeFiles\940118bed57f166150eb7f8b708738db\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FE14D76C-64B3-36E5-B325-7CCB3EDCABC0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
